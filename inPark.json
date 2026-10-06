@@ -1,0 +1,22 @@
+[
+  {
+    "number": 1234,
+    "driver": "ASDF",
+    "route": 1
+  },
+  {
+    "number": 5678,
+    "driver": "QWERTY",
+    "route": 2
+  },
+  {
+    "number": 9123,
+    "driver": "ZXCVB",
+    "route": 3
+  },
+  {
+    "number": 4567,
+    "driver": "BNMAS",
+    "route": 4
+  }
+]
